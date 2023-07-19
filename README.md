@@ -6,7 +6,7 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 - 👨‍🏫 I’m currently a teacher of programming languages, robotics and website development.
 - 📚 I'm currently creating tutorials/blogs/projects and answer web scraping questions on StackOverflow and other Q&A platforms.
-- 🌱 I’m currently a beginner Django backend developer.
+- 🌱 I’m currently a beginner Ruby on Rails backend developer.
 - 📫 How to reach me: chukhraiartur@gmail.com
 
 <!--
