@@ -5,8 +5,8 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 # Hi there 👋
 
 - 👨‍🏫 I’m currently a teacher of programming languages, robotics and website development.
-- 📚 I'm currently creating tutorials/blogs/projects and answer web scraping questions on StackOverflow and other Q&A platforms.
-- 🌱 I’m currently a beginner Ruby on Rails backend developer.
+- 📚 I had been creating tutorials/blogs/projects and answering web scraping questions on StackOverflow and other Q&A platforms.
+- 🌱 I’m currently a beginner Python/Ruby developer.
 - 📫 How to reach me: chukhraiartur@gmail.com
 
 <!--
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: chukhraiartur@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The Ancient Romans used to drop a piece of toast into their wine for good health - hence why we 'raise a toast'.
 -->
