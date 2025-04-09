@@ -4,9 +4,9 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 # Hi there 👋
 
-- 👨‍🏫 I’m currently a teacher of programming languages, robotics and website development.
+- 👨‍🏫 I’m currently a Python Software Engineer focused on Big Data.
+- 🌱 Previously I was a teacher of programming languages, robotics and website development.
 - 📚 I had been creating tutorials/blogs/projects and answering web scraping questions on StackOverflow and other Q&A platforms.
-- 🌱 I’m currently a beginner Python/Ruby developer.
 - 📫 How to reach me: chukhraiartur@gmail.com
 
 <!--
